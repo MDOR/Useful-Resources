@@ -26,7 +26,12 @@
 - [Popular Code Conventions](http://sideeffect.kr/popularconvention/#javascript)
 
 ### ES6
+- [ES6 Features](https://github.com/lukehoban/es6features)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 - [Exploring ES6](http://exploringjs.com/es6/)
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)
 - [YDKJS - ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+
+### References
+- [ES6 Features](http://es6-features.org/)
+- [ES6 Compatibility](https://kangax.github.io/compat-table/es6/)
