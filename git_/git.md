@@ -5,3 +5,6 @@
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [Atlassian's tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [Gentle Introduction to GIT](http://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html)
+
+## Resources
+- [A successful Git branching model]http://nvie.com/posts/a-successful-git-branching-model/
