@@ -22,7 +22,10 @@
 - [Cocktail sort](http://www.growingwiththeweb.com/2016/04/cocktail-sort.html)
 
 ## Utilities
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Sorting Visualiser](http://www.growingwiththeweb.com/projects/sorting-visualiser/)
+- [VisuAlgo](https://visualgo.net)
+- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ## Interest
 - [Check if a binary tree is balanced](http://www.growingwiththeweb.com/2015/11/check-if-a-binary-tree-is-balanced.html)
