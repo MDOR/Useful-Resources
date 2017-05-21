@@ -7,4 +7,4 @@
 - [Gentle Introduction to GIT](http://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html)
 
 ## Resources
-- [A successful Git branching model]http://nvie.com/posts/a-successful-git-branching-model/
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
